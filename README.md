@@ -26,7 +26,5 @@ For Admin :
 User Name : admin
 Password :  admin
 
-
-https://media.githubusercontent.com/media/TanjilBhuyan/BD-SHOPPING/main/project_demonstration.mov
 Project Demonstration
 [![BD_SHOPPING](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=jTGUrX8L3YA)
